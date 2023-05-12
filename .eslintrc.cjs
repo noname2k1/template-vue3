@@ -11,9 +11,6 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 'latest',
   },
-  parserOptions: {
-    ecmaVersion: 'latest',
-  },
   rule: {
     'no-useless-catch': 'off',
     'prettier/prettier': 'error',
